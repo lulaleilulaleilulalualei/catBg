@@ -1,0 +1,350 @@
+{
+    "message": "",
+    "data": [
+      {
+        "title": "数据分析",
+        "key": "dataAnalysis",
+        "component": "components",
+        "icon": "bar-chart",
+        "children": [
+          {
+            "title": "订单分析",
+            "key": "orderAnalyze",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "用户分析",
+            "key": "userAnalyze",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "年龄段分析",
+            "key": "ageAnalyze",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "销售排行",
+            "key": "saleRanking",
+            "hidden": false,
+            "icon": ""
+          }
+        ]
+      },
+      {
+        "title": "用户管理",
+        "key": "userManage",
+        "component": "components",
+        "icon": "user",
+        "children": [
+          {
+            "title": "微信用户列表",
+            "key": "wxUserList",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "用户钱包",
+            "key": "userWallet",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "邀请码",
+            "key": "inviteCode",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "查看明细",
+            "key": "transactionDetail",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "设置角色",
+            "key": "setRole",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "赠送优惠券",
+            "key": "giveCoupons",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "邀请人列表",
+            "key": "inviterList",
+            "hidden": false,
+            "icon": ""
+          }
+        ]
+      },
+      {
+        "title": "订单管理",
+        "key": "orderManage",
+        "component": "components",
+        "icon": "ordered-list",
+        "children": [
+          {
+            "title": "订单列表",
+            "key": "orderList",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "订单操作",
+            "key": "orderOpt",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "订单状态",
+            "key": "orderStatus",
+            "hidden": false,
+            "icon": ""
+          }
+        ]
+      },
+      {
+        "title": "运营管理",
+        "key": "runManage",
+        "component": "components",
+        "icon": "fund",
+        "children": [
+          {
+            "title": "运营中心管理",
+            "key": "runCenterManage",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "定制师管理",
+            "key": "advisorManage",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "合伙人管理",
+            "key": "partnerManage",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "联合创始人管理",
+            "key": "co-founderManage",
+            "hidden": false,
+            "icon": ""
+          }
+        ]
+      },
+      {
+        "title": "财务管理",
+        "key": "financeManage",
+        "component": "components",
+        "icon": "pay-circle",
+        "children": [
+          {
+            "title": "进账明细列表",
+            "key": "inDetailList",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "对账列表（平台）",
+            "key": "checkAccountList",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "供应商结算（平台）",
+            "key": "supplierSettleAccounts",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "微信/支付收款码",
+            "key": "wxGetMoneyCode",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "微信/提现",
+            "key": "wxWithdrawCash",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "微信/企业转账",
+            "key": "wxCompanyTransferAccounts",
+            "hidden": false,
+            "icon": ""
+          }
+        ]
+      },
+      {
+        "title": "商学院",
+        "key": "commercialCollege",
+        "component": "components",
+        "icon": "read",
+        "children": [
+          {
+            "title": "课程管理",
+            "key": "courseManage",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "课程节点",
+            "key": "courseSpot",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "课程分类",
+            "key": "courseClassify",
+            "hidden": false,
+            "icon": ""
+          }
+        ]
+      },
+      {
+        "title": "角色",
+        "key": "role",
+        "component": "components",
+        "icon": "team",
+        "children": [
+          {
+            "title": "普通游客",
+            "key": "visitors",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "体验师",
+            "key": "experiencer",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "定制师",
+            "key": "advisor",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "事业合伙人",
+            "key": "partner",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "联合创始人",
+            "key": "originator",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "运营中心（地区）",
+            "key": "runCenter",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "平台（总部）",
+            "key": "platform",
+            "hidden": false,
+            "icon": ""
+          }
+        ]
+      },
+      {
+        "title": "素材库管理",
+        "key": "materialManage",
+        "component": "components",
+        "icon": "picture",
+        "children": [
+          {
+            "title": "素材列表",
+            "key": "materialList",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "素材库操作",
+            "key": "materialOpt",
+            "hidden": false,
+            "icon": ""
+          }
+        ]
+      },
+      {
+        "title": "系统配置",
+        "key": "systemSet",
+        "component": "components",
+        "icon": "setting",
+        "children": [
+          {
+            "title": "地区配置",
+            "key": "areaSet",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "微信配置",
+            "key": "wxSet",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "短信配置",
+            "key": "shortMessageSet",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "分润配置",
+            "key": "shareProfitSet",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "优惠券配置",
+            "key": "couponSet",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "账号列表",
+            "key": "accountList",
+            "hidden": false,
+            "icon": ""
+          }
+        ]
+      },
+      {
+        "title": "动态管理",
+        "key": "dynamicManage",
+        "component": "components",
+        "icon": "alert",
+        "children": [
+          {
+            "title": "动态列表",
+            "key": "dynamicList",
+            "hidden": false,
+            "icon": ""
+          },
+          {
+            "title": "动态操作",
+            "key": "dynamicOpt",
+            "hidden": false,
+            "icon": ""
+          }
+        ]
+      }
+    ],
+    "code": 0
+  }
